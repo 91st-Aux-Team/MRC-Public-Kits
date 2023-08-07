@@ -11,7 +11,7 @@ Classes Include:
  - Marksman
  - Medic
  - Engineer
- - JTC/RTO
+ - JTAC/RTO
  - Pilot
 
 ## How to use
