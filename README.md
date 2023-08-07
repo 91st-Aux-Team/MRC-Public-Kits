@@ -1,6 +1,8 @@
 # Public-Kits
 
-Contains Kits for you to copy and paste into the ACE Arsenal 
+Contains Kits for you to copy and paste into the ACE Arsenal
+
+All Kits are made with the CT Uniforms & Helmets. Adjust as needed.
 
 Classes Include:
  - Grenadier
