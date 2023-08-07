@@ -2,8 +2,6 @@
 
 Contains Kits for you to copy and paste into the ACE Arsenal 
 
-===================
-
 ## Maintainers
 
 The people responsible for merging changes to this component or answering potential questions.
